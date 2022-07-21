@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+h1{
+    font-family: 'Lucida Sans';
+    color: brown;
+    font-size: 50px;
+    font-style: oblique;
+    text-decoration: underline;
+}
+h3{
+    font-family: 'Lucida Sans';
+    color: red;
+    font-size: 30px;
+}
+p{
+    font-family: 'Lucida Sans';
+    color: brown;
+    font-size: 20px;
+}
+img{
+    width: 310px;
+    height: 350px;
+}
